@@ -1,9 +1,8 @@
 <img src="NIMH_logo.png" width="250"> <img src="dsst_logo_draft3.png" width="75">
 
+# Hiring: NEI Software Engineer
 
-# Hiring: Data Scientist
-
-The [National Institute of Mental Health (NIMH)](http://www.nimh.nih.gov) is the largest funder of research on mental disorders in the world, with a current budget of over $1.6B per year. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
+The [National Eye Institute of Mental Health (NEI)](http://nei.nih.gov) supports cutting-edge research projects that investigate new ways to prevent, treat, or even reverse vision loss. Our mission is to transform the understanding and treatment of mental illnesses through basic and clinical research, paving the way for prevention, recovery, and cure. The NIH is a highly rated employer at [glassdoor.com](https://www.glassdoor.com/Overview/Working-at-NIH-EI_IE11709.11,14.htm) with very competitive salary and benefits packages.
 
 The [Data Science and Sharing Team (DSST)](http://cmn.nimh.nih.gov/dsst) is a new group created to develop and support data sharing and other data-intensive scientific projects within the [NIMH Intramural Research Program](https://www.nimh.nih.gov/labs-at-nimh/index.shtml) (IRP). Working closely with the [NIH Data Science Community](https://datascience.nih.gov/) the goal of the DSST is to make the NIMH IRP a leader in open science and data sharing practices. We are looking for a talented Data Curator to add to our team. Typical compensation for NIH staff is available at [Glassdoor](https://www.glassdoor.com/Salaries/staff-scientist-salary-SRCH_KO0,15.htm).
 
